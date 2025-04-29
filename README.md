@@ -1,13 +1,9 @@
 ## Parsing Data JSON untuk Laporan Keuangan Kas RT di Android
 
-### Anggota Kelompok <br>
-
 | Nama                      | NIM       | Kelas     | Mata Kuliah          |
-| ------------------------- | --------- | --------- | -------------------- |
-| Rifa Andiani              | 312210377        | TI.22.B.2 | Pemrograman Mobile 2 |
-| Ega Chatrina              | 312210412        | TI.22.B.2 | Pemrograman Mobile 2 |
+| ------------------------- | --------- | --------- | -------------------- |.
+
 | Refa Saputra              | 312210673        | TI.22.B.2 | Pemrograman Mobile 2 |
-| Rafi Suswidia             | 312210331        | TI.22.B.2 | Pemrograman Mobile 2 |
 
 
 
